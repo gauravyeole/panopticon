@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="junk/ServerTxn.java|junk/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/aeyate/Desktop/Dropbox/eclipse-workspace/seref-hazelcast/lib/json-20090211.jar"/>
+	<classpathentry kind="lib" path="/home/aeyate/Desktop/Dropbox/eclipse-workspace/seref-hazelcast/lib/kryo-2.21-all.jar"/>
+	<classpathentry kind="lib" path="/home/aeyate/Desktop/Dropbox/eclipse-workspace/seref-hazelcast/lib/hazelcast-all-3.1.5.jar" sourcepath="/home/aeyate/Desktop/Dropbox/eclipse-workspace/hazelcast-3.1.5-src"/>
+	<classpathentry kind="lib" path="/home/aeyate/Desktop/Dropbox/eclipse-workspace/seref-hazelcast/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/home/aeyate/Desktop/Dropbox/eclipse-workspace/seref-hazelcast/lib/jeromq-0.2.0.jar" sourcepath="/home/aeyate/Desktop/Dropbox/eclipse-workspace/seref-hazelcast/lib/jeromq-0.2.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
